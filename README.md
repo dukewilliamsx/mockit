@@ -93,7 +93,7 @@ mockit [flags] path/to/spec.yaml
 
 Mockit is distributed as a commercial, 100% DRM-free standalone binary. You can purchase a lifetime license for a one-off fee of $19.
 
-**[Get Mockit Standalone Binary ($19)](https://paystack.shop/your-mockit-product-link)**
+**[Get Mockit Standalone Binary ($19)](https://paystack.shop/my-mockit-product-link)**
 
 _All purchases include binaries for macOS (Intel & Apple Silicon), Linux (amd64 & arm64), and Windows._
 
