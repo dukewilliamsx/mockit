@@ -10,7 +10,8 @@ Most existing mock tools fail you in one of three ways:
 3.  They are **too lenient**—guessing semantic formats and silently bypassing contract issues. This gives a false sense of security; when the real backend finally launches, the frontend breaks.
 
 **Mockit** is a zero-dependency, local binary that solves this. It maintains live in-memory state for CRUD flows, runs completely offline, and strictly enforces the OpenAPI contract. If your specification is sloppy or incomplete, Mockit refuses to work—just like a real, spec-aligned backend.
-_Note: Mockit is a commercial, closed-source developer tool. This repository serves as our documentation, issue tracker, and community feedback hub._
+
+(_Note: Mockit is a commercial, closed-source developer tool. This repository serves as our documentation, issue tracker, and community feedback hub._)
 
 ---
 
