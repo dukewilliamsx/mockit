@@ -1,6 +1,6 @@
 ***
 
-# Mockit 🚀
+# Mockit 
 
 Your OpenAPI spec is defined, but the backend implementation hasn't started. The frontend team is blocked, and development is on halt. 
 
