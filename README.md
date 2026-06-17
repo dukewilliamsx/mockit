@@ -97,3 +97,6 @@ Mockit is distributed as a commercial, 100% DRM-free standalone binary. You can 
 
 _All purchases include binaries for macOS (Intel & Apple Silicon), Linux (amd64 & arm64), and Windows._
 
+### Terms of Delivery & Refund Policy
+* **Delivery:** Upon successful payment, you will receive an immediate digital download link for the pre-compiled binaries via your provided email address.
+* **Refund Policy:** Because Mockit is a downloadable software tool, all sales are generally final. However, we offer a full **14-day money-back guarantee** if the tool experiences a critical technical incompatibility with your environment that our support team cannot resolve. For refund requests, contact duke.williamsx@gmail.com.
