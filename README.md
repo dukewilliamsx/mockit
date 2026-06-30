@@ -101,5 +101,6 @@ _Note: Payments are securely processed via Paystack (a Stripe company). The chec
 _All purchases include binaries for macOS (Intel & Apple Silicon), Linux (amd64 & arm64), and Windows._
 
 ### Terms of Delivery & Refund Policy
-* **Delivery:** Upon successful payment, you will receive an immediate digital download link for the pre-compiled binaries via your provided email address.
-* **Refund Policy:** Because Mockit is a downloadable software tool, all sales are generally final. However, we offer a full **14-day money-back guarantee** if the tool experiences a critical technical incompatibility with your environment that our support team cannot resolve. For refund requests, contact duke.williamsx@gmail.com.
+
+*   **Immediate Delivery:** Upon successful payment, Paystack will instantly display a download link on your screen and email a secure link to download the `mockit-v1.0.0-universal.zip` archive.
+*   **14-Day Risk-Free Guarantee:** If Mockit does not strictly validate your OpenAPI specification, fit your development workflow, or run smoothly in your environment, email us at `duke.williamsx@gmail.com` within 14 days of purchase for a **100% no-questions-asked refund**.
