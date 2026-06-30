@@ -1,6 +1,5 @@
 ***
-https://github.com/user-attachments/assets/59ca5707-cfbc-4c4e-893c-9983858d5612
-
+<video src="video.mp4" autoplay loop muted playsinline width="100%"></video>
 # Mockit 
 
 Your OpenAPI spec is defined, but the backend implementation hasn't started. The frontend team is blocked, and development is on halt. 
